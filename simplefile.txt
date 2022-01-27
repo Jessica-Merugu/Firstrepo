@@ -3,4 +3,3 @@
 03 line C (diff on line 3)
 04 line D
 05 line E (diff on line 5)
-editing simple file
